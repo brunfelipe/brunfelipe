@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brunfelipe
-- 👀 I’m a Physics PhD student
-- 🌱 I’m currently learning Python for data science
+- 👀 I’m a Physics PhD student in Quantum Fields.
+- 🌱 I’m currently learning Python for data science and beyond.
 
 
 <!---
